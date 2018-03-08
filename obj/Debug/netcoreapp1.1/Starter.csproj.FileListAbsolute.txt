@@ -1,0 +1,8 @@
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\rappers_6\bin\Debug\netcoreapp1.1\Starter.deps.json
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\rappers_6\bin\Debug\netcoreapp1.1\Starter.runtimeconfig.json
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\rappers_6\bin\Debug\netcoreapp1.1\Starter.runtimeconfig.dev.json
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\rappers_6\bin\Debug\netcoreapp1.1\Starter.dll
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\rappers_6\bin\Debug\netcoreapp1.1\Starter.pdb
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\rappers_6\obj\Debug\netcoreapp1.1\Starter.AssemblyInfo.cs
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\rappers_6\obj\Debug\netcoreapp1.1\Starter.dll
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\rappers_6\obj\Debug\netcoreapp1.1\Starter.pdb
